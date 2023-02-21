@@ -40,7 +40,6 @@ a.externo::after {
 header {
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
     min-height: 150px;
-    min-width: 300px;
     text-align: center;
     padding-top: 40px;
 }
@@ -91,7 +90,7 @@ nav > a:hover {
 
 
 main {
-    min-width: 300px;
+    min-width: 260px;
     max-width: 1000px;
     margin: auto;
     background-color: white;
