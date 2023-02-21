@@ -17,8 +17,8 @@
     --cor5: #063d1e;
 
     --font-padrao: arial, Verdana, Helvetica, sans-serif;
-    --fonte-destaque: 'Bebas Neue', 'cursive';
-    --fonte-android: 'Android', 'cursive';
+    --fonte-destaque: 'Bebas Neue', 'sans-serif';
+    --fonte-android: 'Android', 'Bebas Neue', 'sans-serif';
 }
 
 * {
@@ -75,7 +75,7 @@ nav {
 
 nav > a {
     color: var(--cor1);
-    padding: 10px;
+    padding: 15px;
     text-decoration: none;
     font-weight: bold;
     border-radius: 5px;
